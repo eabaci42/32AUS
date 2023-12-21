@@ -1,5 +1,5 @@
 #include "telegram.h"
-#define BOT_TOKEN "5790006097:AAE-kwVP0SwBHO2s3zH7qXfsqHffwcu89IY"
+#define BOT_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 WiFiClientSecure client;
 HeatHum dht(3);
 
