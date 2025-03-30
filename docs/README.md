@@ -266,6 +266,63 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
   </table>
 </div>
 
+## <div align="center">📄 Devre Şeması</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Circuit Diagram" width="500" />
+  <p><i>Örnek ESP32 sensör bağlantı şeması</i></p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Bileşen</th>
+      <th>ESP32 Bağlantısı</th>
+      <th>Güç Kaynağı</th>
+    </tr>
+    <tr>
+      <td>Alev Sensörü</td>
+      <td>GPIO23 (Digital)</td>
+      <td>3.3V</td>
+    </tr>
+    <tr>
+      <td>MQ-2 Gaz Sensörü</td>
+      <td>GPIO36 (Analog), GPIO34 (Digital)</td>
+      <td>5V</td>
+    </tr>
+    <tr>
+      <td>HC-SR04 Ultrasonik</td>
+      <td>GPIO5 (Trig), GPIO18 (Echo)</td>
+      <td>5V</td>
+    </tr>
+    <tr>
+      <td>DHT11 Sıcaklık/Nem</td>
+      <td>GPIO3</td>
+      <td>3.3V</td>
+    </tr>
+    <tr>
+      <td>RGB LED</td>
+      <td>GPIO13 (R), GPIO12 (G), GPIO14 (B)</td>
+      <td>3.3V via 220Ω dirençler</td>
+    </tr>
+    <tr>
+      <td>Buzzer</td>
+      <td>GPIO17</td>
+      <td>3.3V</td>
+    </tr>
+    <tr>
+      <td>Panik Butonları</td>
+      <td>GPIO15 (Mobil), GPIO19 (Ev)</td>
+      <td>3.3V (Pull-down dirençleri ile)</td>
+    </tr>
+    <tr>
+      <td>ADXL345 İvmeölçer</td>
+      <td>GPIO21 (SDA), GPIO22 (SCL)</td>
+      <td>3.3V</td>
+    </tr>
+  </table>
+</div>
+
 ## <div align="center">📔 Kullanıcı Kılavuzu</div>
 
 <div align="center">
@@ -288,15 +345,34 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
       </td>
       <td align="center" width="33%">
         <a href="../test/README.md">
-          <img src="https://media.giphy.com/media/3oxHQKW9lw6rK9kYtq/giphy.gif" width="100" />
+          <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" />
           <br/><b>Test Senaryoları</b>
         </a>
       </td>
       <td align="center" width="33%">
         <a href="../README.md#telegram-komutları">
-          <img src="https://media.giphy.com/media/l0MYtE5hNvJWE0RLG/giphy.gif" width="100" />
+          <img src="https://media.giphy.com/media/ZZlFeURejAu7o0esKN/giphy.gif" width="100" />
           <br/><b>Telegram Komutları</b>
         </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table style="background-color: #101728; width: 85%; margin: 25px auto; border-collapse: collapse; border-radius: 8px; overflow: hidden; border-left: 5px solid #0891b2;">
+    <tr>
+      <td style="padding: 20px; text-align: left;">
+        <p><i><b>"Modern ev güvenliği, sensörler ve akıllı bildirimlerle başlar."</b></i></p>
+        <p>Her ev sahibi, AUS sistemini kurarken şu temel ilkeleri dikkate almalıdır:</p>
+        <ol>
+          <li>Sensörleri, algılanacak tehlikelere en yakın konumlara yerleştirin</li>
+          <li>WiFi sinyalinin güçlü olduğu bir konumda ESP32'yi konumlandırın</li>
+          <li>Güç kesintisine karşı yedek pil sistemi kullanın</li>
+          <li>Periyodik bakım ve test işlemlerini düzenli olarak yapın</li>
+          <li>Tüm aile üyelerine sistemin kullanımını öğretin</li>
+        </ol>
+        <p>Bu sistem, felaketleri engelleyemez ancak erken uyarı ile can ve mal kayıplarını minimize etmeyi amaçlar.</p>
       </td>
     </tr>
   </table>

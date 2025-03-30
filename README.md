@@ -30,7 +30,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0MYEm0Lj7eyVynXG/giphy.gif" alt="Smart Home System" width="400" />
-  <img src="https://media.giphy.com/media/l0EoBVexxvaP88SSQ/giphy.gif" alt="Warning System" width="400" />
+  <img src="https://media.giphy.com/media/3o6ZsXHLRnkgPtEYVi/giphy.gif" alt="Warning System" width="400" />
 </div>
 
 <div align="center">
@@ -370,6 +370,20 @@ Telegram botu üzerinden şu komutları kullanabilirsiniz:
     </tr>
   </table>
 </div>
+
+## <div align="center">📝 Proje Felsefesi</div>
+
+<blockquote align="center" style="background-color: #1e1e3f; padding: 15px; border-radius: 5px; border-left: 5px solid #0891b2; margin-top: 20px;">
+  <p>💡 <b>"Güvenlik ve kullanım kolaylığı bir arada."</b></p>
+  <p><i>Bu projeyi geliştirirken şu prensipleri benimsedim:</i></p>
+  <ol>
+    <li>Basit, anlaşılır ve modüler kod yapısı</li>
+    <li>Sensör verilerinin güvenilir şekilde işlenmesi</li>
+    <li>Düşük güç tüketimi ve yüksek performans</li>
+    <li>Kullanıcı dostu bildirim sistemleri</li>
+    <li>Uzaktan kontrol ve güncelleme imkanı</li>
+  </ol>
+</blockquote>
 
 ## <div align="center">📜 Lisans</div>
 

@@ -105,6 +105,58 @@ Lütfen bir test numarası girin:
    - Bildirim sistemlerinin çalışıp çalışmadığını doğrulayın
    - Hata veya gecikme sürelerini not edin
 
+## <div align="center">📋 Test Kontrol Listesi</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Test Adımı</th>
+      <th>Beklenen Sonuç</th>
+      <th>Kontrol</th>
+    </tr>
+    <tr>
+      <td>Yangın Sensörü Testi</td>
+      <td>Sensör alev algıladığında LED kırmızıya dönmeli ve bildirim gelmeli</td>
+      <td>▢</td>
+    </tr>
+    <tr>
+      <td>Gaz Sensörü Testi</td>
+      <td>Gaz seviyesi eşiği aştığında buzzer çalmalı ve bildirim gönderilmeli</td>
+      <td>▢</td>
+    </tr>
+    <tr>
+      <td>Su Seviyesi Ölçümü</td>
+      <td>Su seviyesi doğru ölçülmeli ve kritik değerlerde uyarı verilmeli</td>
+      <td>▢</td>
+    </tr>
+    <tr>
+      <td>Deprem Algılama</td>
+      <td>İvmeölçer şiddetli hareketi algıladığında bildirim gönderilmeli</td>
+      <td>▢</td>
+    </tr>
+    <tr>
+      <td>Ev İçi Panik Butonu</td>
+      <td>Butona basıldığında LED yanmalı ve yardım mesajı gönderilmeli</td>
+      <td>▢</td>
+    </tr>
+    <tr>
+      <td>Mobil Panik Butonu</td>
+      <td>Butona basıldığında konum bilgisi ve yardım mesajı gönderilmeli</td>
+      <td>▢</td>
+    </tr>
+    <tr>
+      <td>Telegram Bot Yanıtları</td>
+      <td>Komutlara doğru ve hızlı yanıt verilmeli</td>
+      <td>▢</td>
+    </tr>
+    <tr>
+      <td>OTA Güncelleme</td>
+      <td>Kablosuz yazılım güncellemesi sorunsuz çalışmalı</td>
+      <td>▢</td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer&fontSize=18&fontColor=ffffff&animation=fadeIn" alt="Footer" />
 </div> 
