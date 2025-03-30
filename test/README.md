@@ -8,7 +8,52 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Testing" width="450" />
 </div>
 
+<div align="center">
+  <a href="../README.md">
+    <img src="https://img.shields.io/badge/↩️ Ana%20Sayfa-0891b2?style=for-the-badge" alt="Ana Sayfa" />
+  </a>
+  <a href="../src/README.md">
+    <img src="https://img.shields.io/badge/💻 Kaynak%20Kodlar-0891b2?style=for-the-badge" alt="Kaynak Kodlar" />
+  </a>
+  <a href="../docs/README.md">
+    <img src="https://img.shields.io/badge/📚 Dokümantasyon-0891b2?style=for-the-badge" alt="Dokümantasyon" />
+  </a>
+</div>
+
 Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin test senaryoları ve test araçları için ayrılmıştır.
+
+## <div align="center">📋 İçindekiler</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <a href="#-test-senaryoları">
+          <img src="https://media.giphy.com/media/X0oEvTEdLj2YU/giphy.gif" width="80" /><br/>
+          <b>Test Senaryoları</b>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="#-test-araçları">
+          <img src="https://media.giphy.com/media/VDGKJDJT64O5cHttaU/giphy.gif" width="80" /><br/>
+          <b>Test Araçları</b>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="#-test-i̇ş-akışı">
+          <img src="https://media.giphy.com/media/3ohs4gux2zjc5OtjFe/giphy.gif" width="80" /><br/>
+          <b>Test İş Akışı</b>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="#-test-kontrol-listesi">
+          <img src="https://media.giphy.com/media/mRh4cLIYhrs9G/giphy.gif" width="80" /><br/>
+          <b>Kontrol Listesi</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## <div align="center">📋 Test Senaryoları</div>
 
@@ -155,6 +200,11 @@ Lütfen bir test numarası girin:
       <td>▢</td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <p>Daha fazla teknik bilgi için <a href="../docs/README.md">Dokümantasyon</a> sayfasını ziyaret edin.</p>
+  <p>Kaynak kodları incelemek için <a href="../src/README.md">Kaynak Kodlar</a> sayfasına bakabilirsiniz.</p>
 </div>
 
 <div align="center">

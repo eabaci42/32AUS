@@ -26,6 +26,81 @@
   </a>
 </div>
 
+## <div align="center">📋 İçindekiler</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#-proje-tanıtımı">
+          <img src="https://media.giphy.com/media/l0MYEm0Lj7eyVynXG/giphy.gif" width="100" /><br/>
+          <b>Proje Tanıtımı</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-özellikler">
+          <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="100" /><br/>
+          <b>Özellikler</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-proje-yapısı">
+          <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="100" /><br/>
+          <b>Proje Yapısı</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#-kurulum-ve-konfigürasyon">
+          <img src="https://media.giphy.com/media/7J4P7JAvwceJGCqJzJ/giphy.gif" width="100" /><br/>
+          <b>Kurulum</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-test-etme">
+          <img src="https://media.giphy.com/media/26ybwvTX4DTkwst6U/giphy.gif" width="100" /><br/>
+          <b>Test Etme</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-telegram-komutları">
+          <img src="https://media.giphy.com/media/3o6Zt9pLJJJcQK6YAE/giphy.gif" width="100" /><br/>
+          <b>Telegram</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="src/README.md">
+          <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="100" /><br/>
+          <b>💻 Kaynak Kodlar</b>
+        </a>
+        <p>Proje kodları ve modüller</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="docs/README.md">
+          <img src="https://media.giphy.com/media/l3q2Pb3RTnNrGCfmM/giphy.gif" width="100" /><br/>
+          <b>📚 Dokümantasyon</b>
+        </a>
+        <p>Teknik bilgiler ve kılavuzlar</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="test/README.md">
+          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" /><br/>
+          <b>🧪 Test</b>
+        </a>
+        <p>Test senaryoları ve prosedürleri</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## <div align="center">📌 Proje Tanıtımı</div>
 
 <div align="center">
@@ -335,7 +410,7 @@ Sistemi test etmek için `src/test.ino` dosyasını ESP32 kartınıza yükleyin 
 3. Deprem Sistemini Test Et
 4. Panik Butonlarını Test Et
 
-Daha fazla test senaryosu ve detaylı bilgi için `test/README.md` dosyasına bakabilirsiniz.
+Daha fazla test senaryosu ve detaylı bilgi için [Test Klasörü](test/README.md) dosyasına bakabilirsiniz.
 
 ## <div align="center">📊 Telegram Komutları</div>
 

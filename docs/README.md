@@ -8,7 +8,46 @@
   <img src="https://media.giphy.com/media/l3q2Pb3RTnNrGCfmM/giphy.gif" alt="Documentation" width="450" />
 </div>
 
+<div align="center">
+  <a href="../README.md">
+    <img src="https://img.shields.io/badge/↩️ Ana%20Sayfa-0891b2?style=for-the-badge" alt="Ana Sayfa" />
+  </a>
+  <a href="../src/README.md">
+    <img src="https://img.shields.io/badge/💻 Kaynak%20Kodlar-0891b2?style=for-the-badge" alt="Kaynak Kodlar" />
+  </a>
+  <a href="../test/README.md">
+    <img src="https://img.shields.io/badge/🧪 Test-0891b2?style=for-the-badge" alt="Test" />
+  </a>
+</div>
+
 Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonunu içerir.
+
+## <div align="center">📋 İçindekiler</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="#️-teknik-dokümantasyon">
+          <img src="https://media.giphy.com/media/xTiTnBvYeOzjnS3UpO/giphy.gif" width="80" /><br/>
+          <b>Teknik Dokümantasyon</b>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="#-devre-şeması">
+          <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" /><br/>
+          <b>Devre Şeması</b>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="#-kullanıcı-kılavuzu">
+          <img src="https://media.giphy.com/media/3o6ZsXHLRnkgPtEYVi/giphy.gif" width="80" /><br/>
+          <b>Kullanıcı Kılavuzu</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## <div align="center">⚙️ Teknik Dokümantasyon</div>
 
@@ -338,7 +377,7 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="../README.md#kurulum-ve-konfigürasyon">
+        <a href="../README.md#-kurulum-ve-konfigürasyon">
           <img src="https://media.giphy.com/media/MCeHiUs7nODJHlR4rX/giphy.gif" width="100" />
           <br/><b>Kurulum Kılavuzu</b>
         </a>
@@ -350,7 +389,7 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="../README.md#telegram-komutları">
+        <a href="../README.md#-telegram-komutları">
           <img src="https://media.giphy.com/media/ZZlFeURejAu7o0esKN/giphy.gif" width="100" />
           <br/><b>Telegram Komutları</b>
         </a>
