@@ -1,8 +1,8 @@
-# <div align="center">📚 Dokümantasyon</div>
+# 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=AUS%20Dokümantasyon&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25" alt="Documentation" />
-</div>
+📚 Dokümantasyon
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=AUS%20Dokümantasyon&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25" alt="Documentation" />
 
 <div align="center">
   <img src="https://media.giphy.com/media/l3q2Pb3RTnNrGCfmM/giphy.gif" alt="Documentation" width="450" />
@@ -22,25 +22,27 @@
 
 Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonunu içerir.
 
-## <div align="center">📋 İçindekiler</div>
+## 
+
+📋 İçindekiler
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="#️-teknik-dokümantasyon">
+        <a href="#⚙️-teknik-dokümantasyon">
           <img src="https://media.giphy.com/media/xTiTnBvYeOzjnS3UpO/giphy.gif" width="80" /><br/>
           <b>Teknik Dokümantasyon</b>
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="#-devre-şeması">
+        <a href="#📄-devre-şeması">
           <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" /><br/>
           <b>Devre Şeması</b>
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="#-kullanıcı-kılavuzu">
+        <a href="#📔-kullanıcı-kılavuzu">
           <img src="https://media.giphy.com/media/3o6ZsXHLRnkgPtEYVi/giphy.gif" width="80" /><br/>
           <b>Kullanıcı Kılavuzu</b>
         </a>
@@ -49,13 +51,17 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
   </table>
 </div>
 
-## <div align="center">⚙️ Teknik Dokümantasyon</div>
+## 
+
+⚙️ Teknik Dokümantasyon
 
 <div align="center">
   <img src="https://media.giphy.com/media/xTiTnBvYeOzjnS3UpO/giphy.gif" alt="Technical Documentation" width="400" />
 </div>
 
-### <div align="center">🔌 Sensörler</div>
+### 
+
+🔌 Sensörler
 
 <div align="center">
   <table>
@@ -159,7 +165,9 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
   </table>
 </div>
 
-### <div align="center">📡 İletişim Protokolleri</div>
+### 
+
+📡 İletişim Protokolleri
 
 <div align="center">
   <table>
@@ -235,7 +243,9 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
   </table>
 </div>
 
-### <div align="center">🎮 Kontrol Sistemleri</div>
+### 
+
+🎮 Kontrol Sistemleri
 
 <div align="center">
   <table>
@@ -262,7 +272,9 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
   </table>
 </div>
 
-### <div align="center">💻 Arayüz Bileşenleri</div>
+### 
+
+💻 Arayüz Bileşenleri
 
 <div align="center">
   <table>
@@ -305,7 +317,9 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
   </table>
 </div>
 
-## <div align="center">📄 Devre Şeması</div>
+## 
+
+📄 Devre Şeması
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Circuit Diagram" width="500" />
@@ -362,7 +376,9 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
   </table>
 </div>
 
-## <div align="center">📔 Kullanıcı Kılavuzu</div>
+## 
+
+📔 Kullanıcı Kılavuzu
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o6ZsXHLRnkgPtEYVi/giphy.gif" alt="User Guide" width="400" />
@@ -377,7 +393,7 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="../README.md#-kurulum-ve-konfigürasyon">
+        <a href="../README.md#🛠️-kurulum--kullanım">
           <img src="https://media.giphy.com/media/MCeHiUs7nODJHlR4rX/giphy.gif" width="100" />
           <br/><b>Kurulum Kılavuzu</b>
         </a>
@@ -389,7 +405,7 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="../README.md#-telegram-komutları">
+        <a href="../README.md#📊-telegram-komutları">
           <img src="https://media.giphy.com/media/ZZlFeURejAu7o0esKN/giphy.gif" width="100" />
           <br/><b>Telegram Komutları</b>
         </a>
@@ -417,6 +433,4 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin dokümantasyonun
   </table>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer&fontSize=18&fontColor=ffffff&animation=fadeIn" alt="Footer" />
-</div> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer&fontSize=18&fontColor=ffffff&animation=fadeIn" alt="Footer" /> 

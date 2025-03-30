@@ -1,8 +1,6 @@
-# <div align="center">🧪 Test Klasörü</div>
+# 🧪 Test Klasörü
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=AUS%20Test%20Modülü&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25" alt="Test Module" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=AUS%20Test%20Modülü&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25" alt="Test Module" />
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Testing" width="450" />
@@ -22,31 +20,31 @@
 
 Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin test senaryoları ve test araçları için ayrılmıştır.
 
-## <div align="center">📋 İçindekiler</div>
+## 📋 İçindekiler
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <a href="#-test-senaryoları">
+        <a href="#📋-test-senaryoları">
           <img src="https://media.giphy.com/media/X0oEvTEdLj2YU/giphy.gif" width="80" /><br/>
           <b>Test Senaryoları</b>
         </a>
       </td>
       <td align="center" width="25%">
-        <a href="#-test-araçları">
+        <a href="#🔧-test-araçları">
           <img src="https://media.giphy.com/media/VDGKJDJT64O5cHttaU/giphy.gif" width="80" /><br/>
           <b>Test Araçları</b>
         </a>
       </td>
       <td align="center" width="25%">
-        <a href="#-test-i̇ş-akışı">
+        <a href="#🔄-test-iş-akışı">
           <img src="https://media.giphy.com/media/3ohs4gux2zjc5OtjFe/giphy.gif" width="80" /><br/>
           <b>Test İş Akışı</b>
         </a>
       </td>
       <td align="center" width="25%">
-        <a href="#-test-kontrol-listesi">
+        <a href="#📋-test-kontrol-listesi">
           <img src="https://media.giphy.com/media/mRh4cLIYhrs9G/giphy.gif" width="80" /><br/>
           <b>Kontrol Listesi</b>
         </a>
@@ -55,7 +53,7 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin test senaryolar�
   </table>
 </div>
 
-## <div align="center">📋 Test Senaryoları</div>
+## 📋 Test Senaryoları
 
 <div align="center">
   <table>
@@ -94,7 +92,7 @@ Bu klasör, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin test senaryolar�
   </table>
 </div>
 
-## <div align="center">🔧 Test Araçları</div>
+## 🔧 Test Araçları
 
 <div align="center">
   <img src="https://media.giphy.com/media/VDGKJDJT64O5cHttaU/giphy.gif" alt="Testing Tools" width="400" />
@@ -129,7 +127,7 @@ Lütfen bir test numarası girin:
   </table>
 </div>
 
-## <div align="center">🔄 Test İş Akışı</div>
+## 🔄 Test İş Akışı
 
 <div align="center">
   <img src="https://media.giphy.com/media/3ohs4gux2zjc5OtjFe/giphy.gif" alt="Workflow" width="450" />
@@ -150,7 +148,7 @@ Lütfen bir test numarası girin:
    - Bildirim sistemlerinin çalışıp çalışmadığını doğrulayın
    - Hata veya gecikme sürelerini not edin
 
-## <div align="center">📋 Test Kontrol Listesi</div>
+## 📋 Test Kontrol Listesi
 
 <div align="center">
   <table>
@@ -207,6 +205,4 @@ Lütfen bir test numarası girin:
   <p>Kaynak kodları incelemek için <a href="../src/README.md">Kaynak Kodlar</a> sayfasına bakabilirsiniz.</p>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer&fontSize=18&fontColor=ffffff&animation=fadeIn" alt="Footer" />
-</div> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer&fontSize=18&fontColor=ffffff&animation=fadeIn" alt="Footer" /> 

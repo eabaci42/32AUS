@@ -1,8 +1,6 @@
-# <div align="center">💻 Kaynak Kodlar</div>
+# 💻 Kaynak Kodlar
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=AUS%20Kaynak%20Kodları&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25" alt="Source Code" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=AUS%20Kaynak%20Kodları&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25" alt="Source Code" />
 
 <div align="center">
   <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" alt="Source Code" width="450" />
@@ -22,7 +20,7 @@
 
 Bu dizin, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin kaynak kodlarını içerir.
 
-## <div align="center">📁 Dizin Yapısı</div>
+## 📁 Dizin Yapısı
 
 <div align="center">
   <table>
@@ -117,7 +115,7 @@ Bu dizin, Akıllı Ev ve Afet Uyarı Sistemi (AUS) projesinin kaynak kodlarını
   </table>
 </div>
 
-## <div align="center">🧩 Kod Örnekleri</div>
+## 🧩 Kod Örnekleri
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Code Examples" width="450" />
@@ -174,7 +172,7 @@ void readSensors() {
 }
 ```
 
-## <div align="center">⚙️ Derleme ve Yükleme</div>
+## ⚙️ Derleme ve Yükleme
 
 Kodu derlemek ve ESP32'ye yüklemek için şu adımları izleyin:
 
@@ -186,6 +184,4 @@ Kodu derlemek ve ESP32'ye yüklemek için şu adımları izleyin:
 
 Test modunda çalıştırmak için `test.ino` dosyasını açıp yükleyin.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer&text=AUS%20Kaynak%20Kodları&fontSize=14&fontColor=ffffff&animation=fadeIn&fontAlignY=80" alt="Footer" />
-</div> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer&text=AUS%20Kaynak%20Kodları&fontSize=14&fontColor=ffffff&animation=fadeIn&fontAlignY=80" alt="Footer" /> 

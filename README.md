@@ -1,11 +1,9 @@
-# <div align="center">🏠🚨 Akıllı Ev ve Afet Uyarı Sistemi (AUS)</div>
+# 🏠🚨 Akıllı Ev ve Afet Uyarı Sistemi (AUS)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Akıllı%20Ev%20ve%20Afet%20Uyarı%20Sistemi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="AUS" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Akıllı%20Ev%20ve%20Afet%20Uyarı%20Sistemi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="AUS" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0891B2&center=true&vCenter=true&width=600&lines=ESP32+Tabanl%C4%B1+Ak%C4%B1ll%C4%B1+Ev+Sistemi;Yang%C4%B1n+ve+Sel+Alg%C4%B1lama;Deprem+Erken+Uyar%C4%B1;Telegram+Entegrasyonu;Email+Bildirimleri;OTA+G%C3%BCncelleme+Deste%C4%9Fi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0891B2&center=true&vCenter=true&width=600&lines=ESP32+Tabanlı+Akıllı+Ev+Sistemi;Yangın+ve+Sel+Algılama;Deprem+Erken+Uyarı;Telegram+Entegrasyonu;Email+Bildirimleri;OTA+Güncelleme+Desteği" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -19,14 +17,14 @@
 
 <div align="center" style="margin-top: 10px;">
   <a href="https://github.com/eabaci42/32AUS?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/eabaci42/32AUS?label=Y%C4%B1ld%C4%B1zlar&style=for-the-badge&color=0891b2" alt="Yıldızlar" />
+    <img src="https://img.shields.io/github/stars/eabaci42/32AUS?label=Yıldızlar&style=for-the-badge&color=0891b2" alt="Yıldızlar" />
   </a>
   <a href="https://github.com/eabaci42/32AUS">
-    <img src="https://komarev.com/ghpvc/?username=32AUS&color=0891b2&style=for-the-badge&label=Ziyaret%C3%A7i" alt="Ziyaretçi Sayısı" />
+    <img src="https://komarev.com/ghpvc/?username=32AUS&color=0891b2&style=for-the-badge&label=Ziyaretçi" alt="Ziyaretçi Sayısı" />
   </a>
 </div>
 
-## <div align="center">📋 İçindekiler</div>
+## 📋 İçindekiler
 
 <div align="center">
   <table>
@@ -101,7 +99,7 @@
   </table>
 </div>
 
-## <div align="center">📌 Proje Tanıtımı</div>
+## 📌 Proje Tanıtımı
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0MYEm0Lj7eyVynXG/giphy.gif" alt="Smart Home System" width="400" />
@@ -122,7 +120,7 @@
   </table>
 </div>
 
-## <div align="center">🔍 Özellikler</div>
+## 🔍 Özellikler
 
 <div align="center">
   <table>
@@ -189,7 +187,7 @@
   </table>
 </div>
 
-## <div align="center">📂 Proje Yapısı</div>
+## 📌 Proje Yapısı
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" alt="Project Structure" width="85%" />
@@ -220,7 +218,7 @@
 └── docs/                   # Dokümantasyon
 ```
 
-## <div align="center">⚡ Pin Bağlantıları</div>
+## ⚡ Pin Bağlantıları
 
 <div align="center">
   <table>
@@ -325,7 +323,7 @@
   </table>
 </div>
 
-## <div align="center">🛠️ Kurulum ve Konfigürasyon</div>
+## 🛠️ Kurulum ve Konfigürasyon
 
 <div align="center">
   <img src="https://media.giphy.com/media/7J4P7JAvwceJGCqJzJ/giphy.gif" alt="Setup" width="400" />
@@ -397,7 +395,7 @@
 
 6. ESP32 kartınızı bilgisayarınıza bağlayın ve `src/aus-ertugrul.ino` dosyasını yükleyin.
 
-## <div align="center">🧪 Test Etme</div>
+## 🧪 Test Etme
 
 <div align="center">
   <img src="https://media.giphy.com/media/26ybwvTX4DTkwst6U/giphy.gif" alt="Testing" width="450" />
@@ -412,7 +410,7 @@ Sistemi test etmek için `src/test.ino` dosyasını ESP32 kartınıza yükleyin 
 
 Daha fazla test senaryosu ve detaylı bilgi için [Test Klasörü](test/README.md) dosyasına bakabilirsiniz.
 
-## <div align="center">📊 Telegram Komutları</div>
+## 📊 Telegram Komutları
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o6Zt9pLJJJcQK6YAE/giphy.gif" alt="Telegram" width="450" />
@@ -426,7 +424,7 @@ Telegram botu üzerinden şu komutları kullanabilirsiniz:
 - `/humidity` - Anlık nem değerini gönderir
 - `/heathum` - Sıcaklık ve nem değerlerini beraber gönderir
 
-## <div align="center">👨‍💻 Geliştiriciler</div>
+## 👨‍💻 Geliştiriciler
 
 <div align="center">
   <table>
@@ -446,7 +444,7 @@ Telegram botu üzerinden şu komutları kullanabilirsiniz:
   </table>
 </div>
 
-## <div align="center">📝 Proje Felsefesi</div>
+## 📝 Proje Felsefesi
 
 <blockquote align="center" style="background-color: #1e1e3f; padding: 15px; border-radius: 5px; border-left: 5px solid #0891b2; margin-top: 20px;">
   <p>💡 <b>"Güvenlik ve kullanım kolaylığı bir arada."</b></p>
@@ -460,7 +458,7 @@ Telegram botu üzerinden şu komutları kullanabilirsiniz:
   </ol>
 </blockquote>
 
-## <div align="center">📜 Lisans</div>
+## 📝 Lisans
 
 <div align="center">
   <a href="LICENSE">
@@ -479,5 +477,5 @@ Telegram botu üzerinden şu komutları kullanabilirsiniz:
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=0891b2&center=true&vCenter=true&width=600&lines=Ak%C4%B1ll%C4%B1+Ev%2C+Ak%C4%B1ll%C4%B1+Ya%C5%9Fam...;G%C3%BCvenli%C4%9Finiz+%C3%B6nceli%C4%9Fimizdir...;Teknoloji+hayat%C4%B1n%C4%B1z%C4%B1+korur..." alt="Slogan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=0891b2&center=true&vCenter=true&width=600&lines=Akıllı+Ev%2C+Akıllı+Yaşam...;Güvenliğiniz+önceliğimizdir...;Teknoloji+hayatınızı+korur..." alt="Slogan" />
 </div>
