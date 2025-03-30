@@ -1,4 +1,5 @@
-#include "Earthquake.h"
+#include "earthquake.h"
+#include "../communication/telegram.h"
 
 Earthquake::Earthquake(double threshold, const String userIds[], int usercount, uint8_t i2cAddress, TwoWire *wire)
     : accel(i2cAddress, wire), threshold(threshold)
@@ -33,17 +34,18 @@ void Earthquake::detect()
         eqdedect = magnitude > threshold;
     }
     else
-        eqdedect false;
+        eqdedect = false;
 
     if (eqdedect == true)
     {
         Serial.println("Earthquake detected!");
-        _message = "Deprem tespit edildi!" mail_notification();
+        _message = "Deprem tespit edildi!";
+        mail_notification();
         telegram_notification();
     }
     else
     {
-        Serial.println(magnitude);
+        Serial.println("No earthquake detected");
     }
 }
 

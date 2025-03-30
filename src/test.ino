@@ -1,14 +1,14 @@
 #include <Arduino.h>
-#include "buzzer.h"
-#include "fire.h"
-#include "flood.h"
-#include "led.h"
-#include "mail.h"
-#include "other.h"
-#include "panicb.h"
-#include "telegram.h
-#include "earthquake.h"
-#include "update.h"
+#include "interfaces/buzzer.h"
+#include "sensors/fire.h"
+#include "sensors/flood.h"
+#include "interfaces/led.h"
+#include "communication/mail.h"
+#include "utils/other.h"
+#include "controllers/panicb.h"
+#include "communication/telegram.h"
+#include "sensors/earthquake.h"
+#include "communication/update.h"
 
 int Pins[20] = {36, 23, 18, 5, 3, 15, 19, 13, 12, 14, 34, 17, 16};
 const String USER_IDS[1] = {"1472673180"};
@@ -49,6 +49,26 @@ HomeButton home(Pins[7], Pins[8], Pins[9]);
 TelegramBot telegram(USER_IDS, 1);
 Earthquake earthquake(1.0, USER_IDS, 1); // 1.0 g threshold
 UpdateHandler updateHandler("flender123");
+
+// Menüyü yazdırmak için yardımcı fonksiyon
+void printMenu() {
+    Serial.println("\n=== Test Menüsü ===");
+    Serial.println("1. Sel Sistemini Test Et");
+    Serial.println("2. Yangın Sistemini Test Et");
+    Serial.println("3. Deprem Sistemini Test Et");
+    Serial.println("4. Panik Butonlarını Test Et");
+    Serial.println("Lütfen bir test numarası girin: ");
+}
+
+// Bir string'in sayısal olup olmadığını kontrol eden fonksiyon
+bool isNumeric(String str) {
+    for(unsigned int i = 0; i < str.length(); i++) {
+        if(!isDigit(str.charAt(i))) {
+            return false;
+        }
+    }
+    return true;
+}
 
 void setup()
 {

@@ -3,7 +3,7 @@
 
 #include <Wire.h>
 #include <ADXL345.h>
-#include "mail.h" // Mail gönderme kütüphanesini buraya dahil edin (uygun şekilde adını güncelleyin)
+#include "../communication/mail.h" // Mail gönderme kütüphanesini buraya dahil edin (uygun şekilde adını güncelleyin)
 
 class Earthquake
 {
@@ -15,7 +15,7 @@ private:
   int _userCount;
 
 public:
-  Earthquake(double threshold, uint8_t i2cAddress = ADXL345_ALT, TwoWire *wire = &Wire);
+  Earthquake(double threshold, const String userIds[], int usercount, uint8_t i2cAddress = ADXL345_ALT, TwoWire *wire = &Wire);
   bool begin();
   void detect();
   bool mail_notification(); // Mail gönderme işlevi

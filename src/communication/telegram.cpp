@@ -1,6 +1,7 @@
 #include "telegram.h"
 #define BOT_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 WiFiClientSecure client;
+#include "../sensors/heathum.h"
 HeatHum dht(3);
 
 #ifdef ESP8266
@@ -151,7 +152,7 @@ String TelegramBot::checkHumidity()
 
 String TelegramBot::checkHeatHum()
 {
-  return (checkHeat() + checkHumidity);
+  return (checkHeat() + checkHumidity());
 }
 
 bool TelegramBot::alarm_message(String message)

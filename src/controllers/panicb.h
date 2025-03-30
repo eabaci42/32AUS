@@ -6,8 +6,8 @@
 #include <WiFiClient.h>
 #include <WiFiClientSecure.h>
 #include <ArduinoJson.h>
-#include "mail.h"
-#include "led.h"
+#include "../communication/mail.h"
+#include "../interfaces/led.h"
 
 class MobileButton
 {

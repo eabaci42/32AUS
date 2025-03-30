@@ -5,7 +5,8 @@
 #include <UniversalTelegramBot.h>
 #include <WiFiClientSecure.h>
 #include <ArduinoJson.h>
-#include "heatHum.h"
+#include "../sensors/heathum.h"
+
 class TelegramBot
 {
 

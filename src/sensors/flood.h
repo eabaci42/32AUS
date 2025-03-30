@@ -2,9 +2,9 @@
 #define FLOOD_H
 
 #include <Arduino.h>
-#include "mail.h"
-#include "buzzer.h"
-#include "led.h"
+#include "../communication/mail.h"
+#include "../interfaces/buzzer.h"
+#include "../interfaces/led.h"
 
 class FloodSensor
 {
